@@ -14,8 +14,11 @@ _行末に 2 つの半角スペースを入力すると改行される。_
 内容を変更すれば add や commit push ができる
 
 git add index.html 　　表記方法を git add . とすれば変更したすべてのファイルを add できる
+
 git commit -m "html を追加" などとメッセージを書く
+
 git push origin main
 
 git checkout -b feature/add-css 　ブランチを作成してそのブランチに切り替える
+
 git checkout main
