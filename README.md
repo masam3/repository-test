@@ -4,7 +4,7 @@
 
 ---
 
-shh 　 key
+shh key
 369hgnn63
 
 cd ~/Desktop ホームディレクトリ　の下　にあるデスクトップ
