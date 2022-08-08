@@ -24,5 +24,6 @@ git checkout -b feature/add-css 　ブランチを作成してそのブランチ
 git checkout main
 
 git branch  現在存在するブランチを表示する
-git branch <branch-name> ブランチを作成する
+
+git branch {branch-name} ブランチを作成する
 
