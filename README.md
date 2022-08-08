@@ -19,7 +19,7 @@ git commit -m "html を追加" などとメッセージを書く
 
 git push origin main
 
-git checkout -b feature/add-css 　ブランチを作成してそのブランチに切り替える
+git checkout -b {feature/add-css} 　{}内の名前のブランチを作成してそのブランチに切り替える
 
 git checkout main
 
