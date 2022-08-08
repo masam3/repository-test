@@ -25,5 +25,5 @@ git checkout main
 
 git branch  現在存在するブランチを表示する
 
-git branch {branch-name} {}内のブランチを作成する
+git branch {branch-name} 　{}内の名前のブランチを作成する
 
