@@ -15,6 +15,7 @@ git branch 現在存在するブランチを表示する
 git branch {branch-name} 　{}内の名前のブランチを作成する
 
 git checkout -b {feature/add-css} 　{}内の名前のブランチを作成してそのブランチに切り替える
+
 git checkout main
 
 git status 状態確認
@@ -25,8 +26,13 @@ git add index.html 　　表記を git add . とすれば変更したすべて�
 
 git commit -m "html を追加" などとメッセージを書く
 
+
 git pull origin main pull してから push する
+
 git push origin {feature/add-css}
+
+
+
 
 **Markdown の文法確認**
 
