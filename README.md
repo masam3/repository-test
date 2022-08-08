@@ -7,7 +7,7 @@
 shh key
 369hgnn63
 
-cd ~/Desktop ホームディレクトリ　の下　にあるデスクトップ
+cd ~/Desktop ホームディレクトリ　の下　にあるデスクトップに移動
 
 git clone url
 
@@ -31,6 +31,10 @@ git pull origin main pull してから push する
 git push origin {feature/add-css}
 
 git branch -d{branch-name} ブランチを削除する
+
+git init {project-name}  カレントディレクトリにgitフォルダが入った{project-name}フォルダが作成される
+
+
 
 **Markdown の文法確認**
 
