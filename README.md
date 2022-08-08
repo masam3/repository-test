@@ -26,13 +26,11 @@ git add index.html 　　表記を git add . とすれば変更したすべて�
 
 git commit -m "html を追加" などとメッセージを書く
 
-
 git pull origin main pull してから push する
 
 git push origin {feature/add-css}
 
-
-
+git branch -d{branch-name} ブランチを削除する
 
 **Markdown の文法確認**
 
