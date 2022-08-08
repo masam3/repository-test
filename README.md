@@ -22,3 +22,7 @@ git push origin main
 git checkout -b feature/add-css 　ブランチを作成してそのブランチに切り替える
 
 git checkout main
+
+git branch  現在存在するブランチを表示する
+git branch <branch-name> ブランチを作成する
+
